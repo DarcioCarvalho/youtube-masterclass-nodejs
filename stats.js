@@ -1,3 +1,9 @@
+
+/*   DICA DE TECLA DE ATALHO NO VISUAL STUDIO CODE
+
+   Crtl + J >>  Abre o Terminal
+*/
+
 const os = require('os')
 const log = require('./logger')
 
@@ -18,7 +24,10 @@ setInterval(() => {
     console.clear()
     console.log("====== PC STATS ======")
     console.table(stats)
-    log('Rodando...')
+
+    log(`${JSON.stringify(stats)}\n`)
+
+    //log('Rodando...')
 
 
 }, 1000)
