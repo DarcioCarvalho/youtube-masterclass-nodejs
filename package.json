@@ -1,0 +1,20 @@
+{
+  "name": "youtube-masterclass-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarcioCarvalho/youtube-masterclass-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarcioCarvalho/youtube-masterclass-nodejs/issues"
+  },
+  "homepage": "https://github.com/DarcioCarvalho/youtube-masterclass-nodejs#readme"
+}
