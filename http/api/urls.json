@@ -11,6 +11,14 @@
     {
       "name": "MercadoLivre",
       "url": "http://www.mercadolivre.com.br"
+    },
+    {
+      "name": "Duolar Móveis",
+      "url": "http://www.duolarmoveis.com.br"
+    },
+    {
+      "name": "Itau",
+      "url": "http://www.itau.com.br"
     }
   ]
 }
