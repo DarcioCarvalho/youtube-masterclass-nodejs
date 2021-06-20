@@ -3,6 +3,14 @@
     {
       "name": "Rocketseat",
       "url": "http://www.rocketseat.com.br"
+    },
+    {
+      "name": "Google",
+      "url": "http://www.google.com"
+    },
+    {
+      "name": "MercadoLivre",
+      "url": "http://www.mercadolivre.com.br"
     }
   ]
 }
